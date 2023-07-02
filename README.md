@@ -34,4 +34,8 @@ chmod +x kurama-motd
 service ssh restart
 ```
 
+- Demo : 
+
+![alt text](https://github.com/Kurama250/Custom_motd/blob/main/motd.png?raw=true)
+
 <h1 align="center">Then it's the end you have started the bot have fun !</h1>
