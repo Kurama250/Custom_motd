@@ -38,4 +38,4 @@ service ssh restart
 
 ![alt text](https://github.com/Kurama250/Custom_motd/blob/main/motd.png?raw=true)
 
-<h1 align="center">Then it's the end you have started the code have fun !</h1>
+<h1 align="center">Then it's the end you have modified the script have fun !</h1>
