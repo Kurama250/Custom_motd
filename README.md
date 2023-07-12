@@ -34,7 +34,7 @@ chmod +x kurama-motd
 service ssh restart
 ```
 
-- Demo : 
+- Demo Motd v1.1: 
 
 ![alt text](https://github.com/Kurama250/Custom_motd/blob/main/motd.png?raw=true)
 
