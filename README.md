@@ -5,7 +5,7 @@
 
 ## 1 - on Terminal
 
-- Package
+- Install package
 
 ```shell script
 apt install lsb-release procps ifstat -y
