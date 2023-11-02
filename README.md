@@ -42,6 +42,6 @@ service ssh restart
 
 - Demo Motd v1.1: 
 
-![alt text](https://github.com/Kurama250/Custom_motd/blob/main/motd.png?raw=true)
+![alt text](https://github.com/Kurama250/Custom_motd/blob/main/motd2.png?raw=true)
 
 <h1 align="center">Then it's the end you have modified the script have fun !</h1>
