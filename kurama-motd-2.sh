@@ -1,20 +1,15 @@
 #!/bin/bash
 
 CREATOR_MOTD() {
-    echo -e " \e[31m ██▓     ██▓  ███▄    █   █    ██  ▒██   ██▒\e[0m "
-    echo -e " \e[31m▓██▒    ▓██▒  ██ ▀█   █   ██  ▓██▒ ▒▒ █ █ ▒░\e[0m "
-    echo -e " \e[33m▒██░    ▒██▒ ▓██  ▀█ ██ ▒▓██  ▒██░ ░░  █   ░\e[0m "
-    echo -e " \e[32m▒██░    ░██░ ▓██▒  ▐▌██ ▒▓▓█  ░██░  ░ █ █ ▒ \e[0m "
-    echo -e " \e[36m░██████▒░██░ ▒██░   ▓██ ░▒▒█████▓  ▒██▒ ▒██▒\e[0m "
-    echo -e " \e[36m░ ▒░▓  ░░▓   ░ ▒░   ▒ ▒  ░▒▓▒ ▒ ▒  ▒▒ ░ ░▓ ░\e[0m "
-    echo -e " \e[34m░ ░ ▒  ░ ▒ ░ ░ ░░   ░ ▒ ░░░▒░ ░ ░  ░░   ░▒ ░\e[0m "
-    echo -e " \e[35m  ░ ░    ▒ ░    ░   ░ ░   ░░░ ░ ░   ░    ░  \e[0m "
-    echo -e " \e[35m    ░  ░ ░            ░     ░       ░    ░  \e[0m "
-    echo ""
-    echo -e "          \e[35mCreated by Kurama250\e[0m"
-    echo -e "   \e[35mGithub: https://github.com/Kurama250\e[0m"
-    echo -e "        \e[35mKurama_motd Custom v1.1\e[0m"
-    echo ""
+    echo -e " \e[36m  .--------------------------------------------------.  \e[0m "
+    echo -e " \e[36m |    .--.                                            | \e[0m "
+    echo -e " \e[36m |   |&_& |                                           | \e[0m "
+    echo -e " \e[36m |   |:&: |   Linux motd                              | \e[0m "
+    echo -e " \e[36m |  //   \ \       by Kurama                          | \e[0m "
+    echo -e " \e[36m | (|     | )           Github : github.com/Kurama250 | \e[0m "
+    echo -e " \e[36m | /'\\_   _/'\\                                        | \e[0m "
+    echo -e " \e[36m | \\___)=(___/                                        | \e[0m "
+    echo -e " \e[36m  '--------------------------------------------------'  \e[0m "
 }
 
 INFOS_SERVER() {
