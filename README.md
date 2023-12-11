@@ -1,6 +1,13 @@
 <h1 align="center">Code to customize a Linux motd !</h1>
 <em><h5 align="center">(Programming Language - Shell)</h5></em>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Kurama250/Custom_motd">
+  <img src="https://img.shields.io/github/license/Kurama250/Custom_motd">
+  <img src="https://img.shields.io/github/repo-size/Kurama250/Custom_motd">
+  <img src="https://img.shields.io/badge/stability-stable-green">
+</p>
+
 # Tutorial to install the motd ! For LINUX (VPS or Dedicated Server)
 
 ## 1 - on Terminal
