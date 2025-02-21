@@ -34,7 +34,7 @@ or put the file by removing (.sh) in the directory above !
 nano kurama-motd
 ```
 
-- Rename file on command
+- or Rename file on command (Git Clone)
 
 ```
 mv kurama-motd.sh kurama-motd
